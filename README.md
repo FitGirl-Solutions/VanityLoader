@@ -18,7 +18,9 @@ FitGirl is an easy-to-use multipurpose program that is being used for **educatio
 
 `1.` Open the **Loader.exe** file and enter the setup. Please, decline all the offers that will show up for your safety.
 
+
 `2.` Enter your account credentials that you received from our website's dashboard.
+
 
 `3.` Start using our software. 
 
