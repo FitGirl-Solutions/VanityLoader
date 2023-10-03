@@ -1,6 +1,6 @@
-# 🍌 FitGirl's Loader
+# 🍌 VanityLoader
 
-**NOTE:** This is the official __FitGirl__ Loader. Any other loader named **FitGirl** is **fake**!
+**NOTE:** This is the official Vanity Loader. Any other loader named **Vanity** is **fake**!
 
 ## Basics
 
@@ -11,7 +11,7 @@ We are not responsible for any damage made after the use of our software. We do 
 
 ## Getting Started
 
-FitGirl is an easy-to-use multipurpose program that is being used for **educational purposes only**. You can register a new account and get started easily within minutes with our website.
+Vanity is an easy-to-use multipurpose program that is being used for **educational purposes only**. You can register a new account and get started easily within minutes with our website.
 
 
 ## Preparation
@@ -35,4 +35,4 @@ FitGirl is an easy-to-use multipurpose program that is being used for **educatio
 If you have any questions about our software / campaign, feel free to contact our support team on our discord server. **If you experience any problems while you're using our software, please report it on the management team as soon as possible.**
 
 
-`This program is coded by cloudyy187 and his development team, FitGirl Solutions.`
+`This program is coded by cloudyy187 and his development team, Vanity Project.`
