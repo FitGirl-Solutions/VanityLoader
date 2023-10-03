@@ -1,4 +1,4 @@
-# 🍌 VanityLoader
+# 🧬 VanityLoader
 
 **NOTE:** This is the official Vanity Loader. Any other loader named **Vanity** is **fake**!
 
